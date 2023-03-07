@@ -1,5 +1,8 @@
 
 # This Flow will Send Notification After Number of days selected by User.  
+
+
+
 ---
 ## Creat 1 Custom Notification from setup and 3 Custom fields in case object from setup
 
@@ -7,3 +10,10 @@
 
 - deploy 'objects/Case/fields' in your salesforce org.
 ---
+## fields and trigger flow used:
+
+https://user-images.githubusercontent.com/78630600/223407137-4c8bc65d-e026-4e1a-9939-a06dcf1b81ff.mp4
+
+
+
+
